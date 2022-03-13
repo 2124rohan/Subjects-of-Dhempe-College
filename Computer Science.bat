@@ -1,1 +1,1 @@
-Department of Computer Science
+echo Department of Computer Science
